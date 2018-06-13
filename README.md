@@ -9,6 +9,6 @@ Probability -> P(E) lim n -> infin n( E)/n
 Axioms: 
 1. 0 < P(E) < 1
 2. Probability of sample set is 1
-3. Probability E + Probability F = P ( E & F )
+3. Probability E + Probability F = P ( E or F )   if P(E&F) empty 
  
 P E or F = P(E)+ P(F) - P ( E &F )
